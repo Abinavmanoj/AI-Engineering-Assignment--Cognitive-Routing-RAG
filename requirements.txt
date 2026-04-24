@@ -1,0 +1,12 @@
+langchain==0.3.25
+langchain-community==0.3.24
+langchain-core==0.3.61
+langgraph==0.4.1
+langchain-groq==0.3.2
+langchain-openai==0.3.16
+chromadb==1.0.7
+sentence-transformers==4.1.0
+openai==1.78.1
+groq==0.23.1
+python-dotenv==1.1.0
+pydantic==2.11.4
